@@ -76,7 +76,6 @@ ENV/
 env/
 env.bak/
 venv.bak/
-src/.venv/
 
 # Spyder project settings
 .spyderproject
