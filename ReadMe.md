@@ -2,14 +2,12 @@ python -m venv .venv
 
 pip install -r requirements.txt
 
-python -m ipykernel install --user --name opt-methods-env
-
 ### Windows
 To activate 
 
 
 cd src
-venv/Scripts/activate 
+.venv/Scripts/activate 
 
 To deactivate
 
